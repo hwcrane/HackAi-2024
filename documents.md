@@ -1,1 +1,6 @@
 - https://www.ecfr.gov/current/title-14
+- NTSB
+- ICAO Annex
+- FAA-CT-8080-7D, Appendix 2
+- ICAO Training Manuals
+- 
