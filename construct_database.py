@@ -13,9 +13,3 @@ embeddings = HuggingFaceEmbeddings()
 
 # FAISS.save_local(db, folder_path='faiss_index')
 db = FAISS.load_local("faiss_index", embeddings)
-
-retriever = db.as_retriever()
-
-docs = retriever.get_relevant_documents("What type of microphone must be installed to meet the recording requirements of paragraph (a)(2) of 14 CFR 23.1457? ")
-print(docs)
-
