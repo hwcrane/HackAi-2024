@@ -1,5 +1,0 @@
-- https://www.ecfr.gov/current/title-14
-- NTSB
-- ICAO Annex
-- FAA-CT-8080-7D, Appendix 2, https://www.faa.gov/sites/faa.gov/files/training_testing/testing/supplements/atp_akts.pdf
-- Convention on International Civil Aviation
