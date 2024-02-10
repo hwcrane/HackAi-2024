@@ -1,1 +1,6 @@
 - https://www.ecfr.gov/current/title-14
+- NTSB
+- ICAO Annex. Annex 1: https://www.icao.int/APAC/Meetings/2019%20COSCAP%20SEAEASA%20PEL/AN01_cons.2019_compressed.pdf. Annex 2: https://www.icao.int/Meetings/anconf12/Document%20Archive/an02_cons%5B1%5D.pdf. Annex 5: https://aviation-is.better-than.tv/icaodocs/Annex%205%20-%20Units%20of%20Measurement%20to%20be%20Used%20in%20Air%20and%20Ground%20Operations/an05_4ed_sup_jul01.pdf. Annex 6: https://ffac.ch/wp-content/uploads/2020/09/ICAO-Annex-6-Operation-of-Aircraft-Part-I-International-commercial-air-transport.pdf. Annex 7: https://aviation-is.better-than.tv/icaodocs/Annex%207%20-%20Aircraft%20Nationality%20and%20Registration%20Marks/an07_5ed.pdf. Annex 1-18 (summary): https://www.icao.int/safety/airnavigation/NationalityMarks/annexes_booklet_en.pdf. 
+- FAA-CT-8080-7D, Appendix 2 https://www.faa.gov/sites/faa.gov/files/training_testing/testing/supplements/atp_akts.pdf s
+- ICAO Training Manuals https://www.icao.int/training/Documents/TPOM%20New%20Framework.pdf?_gl=1*w9q8ih*_ga*OTI4OTg3MDA4LjE2OTg5NTI3NTE.*_ga_992N3YDLBQ*MTcwMTM2NDM0Ny44OC4xLjE3MDEzNjYwODQuMC4wLjA. 
+- 
