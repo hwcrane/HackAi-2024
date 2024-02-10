@@ -8,7 +8,7 @@ def answer_question(prompt: str) -> str:
     completion = CLIENT.chat.completions.create(
       model="local-model", # this field is currently unused
       messages=[
-        #{"role": "system", "content": "Answer only with the option letter (A, B, C)."},
+        #{"role": "system", "content": "Answer with single character (A, B, C) only (do not give description)"},
         {"role": "user", "content": prompt + "\nAnswer only with the option letter (A, B, C)."}
       ],
       temperature=0.1,
