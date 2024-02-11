@@ -14,12 +14,13 @@ documents = loader.load()
 ### Embeddings
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+embeddings.show_progress = True
 
 ### Split Documents
 
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=100,
-    chunk_overlap=20,
+    chunk_size=1000,
+    chunk_overlap=200,
     length_function=len,
     is_separator_regex=False,
 )
